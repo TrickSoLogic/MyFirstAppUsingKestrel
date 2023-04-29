@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hkwaGxvO9OLGDzos8J8SDiqS9NJMXQ8GPX/U6uAxffw=",
+  "Source": "MyFirstAppUsingKestrel",
+  "BasePath": "_content/MyFirstAppUsingKestrel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
