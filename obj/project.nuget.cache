@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aT9nEfiS8b6hNgmPccOmZPb5QHL/BFbhhz8zaLSAQOnCCI6GJ4C7E34mudZf4IC4Zd5gDX0SscamKyXHGxi4HA==",
+  "dgSpecHash": "E6axiLuAL2VI7PJK2DR4OFI0sXU3DBtYZ+UVYjuXaFEmI0JtlA2vePD3YXxQZRIDIyqbEEXmt5br8YJSUy/Zfw==",
   "success": true,
-  "projectFilePath": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\01. Getting Started\\01. Create First Asp.Net Core App\\MyFirstApp\\MyFirstAppUsingKestrel.csproj",
+  "projectFilePath": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\01. Getting Started\\01. Create First Asp.Net Core App\\MyFirstAppUsingKestrel\\MyFirstAppUsingKestrel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
